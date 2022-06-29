@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SonkkkROM.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sonk IDLE0000" x="0" y="0" width="382" height="422" frameX="0" frameY="-31" frameWidth="393" frameHeight="455"/>
+	<SubTexture name="Sonk IDLE0001" x="382" y="0" width="382" height="422" frameX="0" frameY="-31" frameWidth="393" frameHeight="455"/>
+	<SubTexture name="Sonk IDLE0002" x="764" y="0" width="380" height="443" frameX="-10" frameY="-10" frameWidth="393" frameHeight="455"/>
+	<SubTexture name="Sonk IDLE0003" x="1144" y="0" width="380" height="443" frameX="-10" frameY="-10" frameWidth="393" frameHeight="455"/>
+	<SubTexture name="Sonk IDLE0004" x="1524" y="0" width="377" height="452" frameX="-16" frameY="-1" frameWidth="393" frameHeight="455"/>
+	<SubTexture name="Sonk IDLE0005" x="1901" y="0" width="377" height="453" frameX="-16" frameY="0" frameWidth="393" frameHeight="455"/>
+	<SubTexture name="Sonk IDLE0006" x="2278" y="0" width="374" height="448" frameX="-15" frameY="-5" frameWidth="393" frameHeight="455"/>
+	<SubTexture name="Sonk IDLE0007" x="2652" y="0" width="374" height="448" frameX="-15" frameY="-5" frameWidth="393" frameHeight="455"/>
+	<SubTexture name="Sonk IDLE0008" x="3026" y="0" width="374" height="449" frameX="-15" frameY="-6" frameWidth="393" frameHeight="455"/>
+	<SubTexture name="Sonk IDLE0009" x="2278" y="0" width="374" height="448" frameX="-15" frameY="-5" frameWidth="393" frameHeight="455"/>
+	<SubTexture name="Sonk IDLE0010" x="2652" y="0" width="374" height="448" frameX="-15" frameY="-5" frameWidth="393" frameHeight="455"/>
+	<SubTexture name="Sonk IDLE0011" x="3026" y="0" width="374" height="449" frameX="-15" frameY="-6" frameWidth="393" frameHeight="455"/>
+	<SubTexture name="Sonk IDLE0012" x="2278" y="0" width="374" height="448" frameX="-15" frameY="-5" frameWidth="393" frameHeight="455"/>
+	<SubTexture name="Sonk IDLE0013" x="2652" y="0" width="374" height="448" frameX="-15" frameY="-5" frameWidth="393" frameHeight="455"/>
+	<SubTexture name="Sonk SING RIGHT0000" x="3400" y="0" width="438" height="434" frameX="-30" frameY="-1" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="Sonk SING RIGHT0001" x="0" y="453" width="438" height="436" frameX="-30" frameY="0" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="Sonk SING RIGHT0002" x="438" y="453" width="426" height="434" frameX="-29" frameY="-1" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="Sonk SING RIGHT0003" x="864" y="453" width="455" height="436" frameX="0" frameY="0" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="Sonk SING RIGHT0004" x="1319" y="453" width="455" height="436" frameX="0" frameY="0" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="Sonk SING RIGHT0005" x="1774" y="453" width="455" height="434" frameX="0" frameY="-1" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="Sonk SING RIGHT0006" x="2229" y="453" width="426" height="436" frameX="-29" frameY="0" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="Sonk SING RIGHT0007" x="2655" y="453" width="426" height="436" frameX="-29" frameY="0" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="Sonk SING RIGHT0008" x="438" y="453" width="426" height="434" frameX="-29" frameY="-1" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="Sonk SING RIGHT0009" x="864" y="453" width="455" height="436" frameX="0" frameY="0" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="Sonk SING RIGHT0010" x="1319" y="453" width="455" height="436" frameX="0" frameY="0" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="Sonk SING RIGHT0011" x="1774" y="453" width="455" height="434" frameX="0" frameY="-1" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="Sonk SING RIGHT0012" x="2229" y="453" width="426" height="436" frameX="-29" frameY="0" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="Sonk SING RIGHT0013" x="2655" y="453" width="426" height="436" frameX="-29" frameY="0" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="Sonk SING RIGHT0014" x="438" y="453" width="426" height="434" frameX="-29" frameY="-1" frameWidth="468" frameHeight="436"/>
+	<SubTexture name="Sonk SINGS DOWN0000" x="3081" y="453" width="436" height="420" frameX="-13" frameY="-15" frameWidth="449" frameHeight="435"/>
+	<SubTexture name="Sonk SINGS DOWN0001" x="3517" y="453" width="436" height="420" frameX="-13" frameY="-14" frameWidth="449" frameHeight="435"/>
+	<SubTexture name="Sonk SINGS DOWN0002" x="0" y="889" width="422" height="433" frameX="-26" frameY="-1" frameWidth="449" frameHeight="435"/>
+	<SubTexture name="Sonk SINGS DOWN0003" x="422" y="889" width="448" height="434" frameX="0" frameY="0" frameWidth="449" frameHeight="435"/>
+	<SubTexture name="Sonk SINGS DOWN0004" x="870" y="889" width="448" height="434" frameX="0" frameY="0" frameWidth="449" frameHeight="435"/>
+	<SubTexture name="Sonk SINGS DOWN0005" x="1318" y="889" width="448" height="433" frameX="0" frameY="-1" frameWidth="449" frameHeight="435"/>
+	<SubTexture name="Sonk SINGS DOWN0006" x="1766" y="889" width="422" height="434" frameX="-26" frameY="0" frameWidth="449" frameHeight="435"/>
+	<SubTexture name="Sonk SINGS DOWN0007" x="2188" y="889" width="422" height="434" frameX="-26" frameY="0" frameWidth="449" frameHeight="435"/>
+	<SubTexture name="Sonk SINGS DOWN0008" x="0" y="889" width="422" height="433" frameX="-26" frameY="-1" frameWidth="449" frameHeight="435"/>
+	<SubTexture name="Sonk SINGS DOWN0009" x="422" y="889" width="448" height="434" frameX="0" frameY="0" frameWidth="449" frameHeight="435"/>
+	<SubTexture name="Sonk SINGS DOWN0010" x="870" y="889" width="448" height="434" frameX="0" frameY="0" frameWidth="449" frameHeight="435"/>
+	<SubTexture name="Sonk SINGS DOWN0011" x="1318" y="889" width="448" height="433" frameX="0" frameY="-1" frameWidth="449" frameHeight="435"/>
+	<SubTexture name="Sonk SINGS DOWN0012" x="1766" y="889" width="422" height="434" frameX="-26" frameY="0" frameWidth="449" frameHeight="435"/>
+	<SubTexture name="Sonk SINGS DOWN0013" x="2188" y="889" width="422" height="434" frameX="-26" frameY="0" frameWidth="449" frameHeight="435"/>
+	<SubTexture name="Sonk SINGS DOWN0014" x="0" y="889" width="422" height="433" frameX="-26" frameY="-1" frameWidth="449" frameHeight="435"/>
+	<SubTexture name="Sonk SINGS LEFT0000" x="2610" y="889" width="414" height="473" frameX="0" frameY="0" frameWidth="426" frameHeight="473"/>
+	<SubTexture name="Sonk SINGS LEFT0001" x="3024" y="889" width="414" height="472" frameX="0" frameY="0" frameWidth="426" frameHeight="473"/>
+	<SubTexture name="Sonk SINGS LEFT0002" x="3438" y="889" width="419" height="473" frameX="-6" frameY="0" frameWidth="426" frameHeight="473"/>
+	<SubTexture name="Sonk SINGS LEFT0003" x="0" y="1362" width="420" height="472" frameX="-6" frameY="0" frameWidth="426" frameHeight="473"/>
+	<SubTexture name="Sonk SINGS LEFT0004" x="420" y="1362" width="420" height="472" frameX="-6" frameY="0" frameWidth="426" frameHeight="473"/>
+	<SubTexture name="Sonk SINGS LEFT0005" x="840" y="1362" width="419" height="473" frameX="-6" frameY="0" frameWidth="426" frameHeight="473"/>
+	<SubTexture name="Sonk SINGS LEFT0006" x="1259" y="1362" width="420" height="472" frameX="-6" frameY="0" frameWidth="426" frameHeight="473"/>
+	<SubTexture name="Sonk SINGS LEFT0007" x="1679" y="1362" width="420" height="472" frameX="-6" frameY="0" frameWidth="426" frameHeight="473"/>
+	<SubTexture name="Sonk SINGS LEFT0008" x="3438" y="889" width="419" height="473" frameX="-6" frameY="0" frameWidth="426" frameHeight="473"/>
+	<SubTexture name="Sonk SINGS LEFT0009" x="0" y="1362" width="420" height="472" frameX="-6" frameY="0" frameWidth="426" frameHeight="473"/>
+	<SubTexture name="Sonk SINGS LEFT0010" x="420" y="1362" width="420" height="472" frameX="-6" frameY="0" frameWidth="426" frameHeight="473"/>
+	<SubTexture name="Sonk SINGS LEFT0011" x="840" y="1362" width="419" height="473" frameX="-6" frameY="0" frameWidth="426" frameHeight="473"/>
+	<SubTexture name="Sonk SINGS LEFT0012" x="1259" y="1362" width="420" height="472" frameX="-6" frameY="0" frameWidth="426" frameHeight="473"/>
+	<SubTexture name="Sonk SINGS LEFT0013" x="1679" y="1362" width="420" height="472" frameX="-6" frameY="0" frameWidth="426" frameHeight="473"/>
+	<SubTexture name="Sonk SINGS LEFT0014" x="3438" y="889" width="419" height="473" frameX="-6" frameY="0" frameWidth="426" frameHeight="473"/>
+	<SubTexture name="Sonk SINGS UP0000" x="2099" y="1362" width="411" height="459" frameX="-24" frameY="-1" frameWidth="435" frameHeight="460"/>
+	<SubTexture name="Sonk SINGS UP0001" x="2510" y="1362" width="411" height="459" frameX="-24" frameY="0" frameWidth="435" frameHeight="460"/>
+	<SubTexture name="Sonk SINGS UP0002" x="2921" y="1362" width="422" height="447" frameX="-13" frameY="-13" frameWidth="435" frameHeight="460"/>
+	<SubTexture name="Sonk SINGS UP0003" x="3343" y="1362" width="435" height="447" frameX="0" frameY="-12" frameWidth="435" frameHeight="460"/>
+	<SubTexture name="Sonk SINGS UP0004" x="0" y="1835" width="435" height="447" frameX="0" frameY="-12" frameWidth="435" frameHeight="460"/>
+	<SubTexture name="Sonk SINGS UP0005" x="435" y="1835" width="435" height="447" frameX="0" frameY="-13" frameWidth="435" frameHeight="460"/>
+	<SubTexture name="Sonk SINGS UP0006" x="870" y="1835" width="422" height="447" frameX="-13" frameY="-12" frameWidth="435" frameHeight="460"/>
+	<SubTexture name="Sonk SINGS UP0007" x="1292" y="1835" width="422" height="447" frameX="-13" frameY="-12" frameWidth="435" frameHeight="460"/>
+	<SubTexture name="Sonk SINGS UP0008" x="2921" y="1362" width="422" height="447" frameX="-13" frameY="-13" frameWidth="435" frameHeight="460"/>
+	<SubTexture name="Sonk SINGS UP0009" x="3343" y="1362" width="435" height="447" frameX="0" frameY="-12" frameWidth="435" frameHeight="460"/>
+	<SubTexture name="Sonk SINGS UP0010" x="0" y="1835" width="435" height="447" frameX="0" frameY="-12" frameWidth="435" frameHeight="460"/>
+	<SubTexture name="Sonk SINGS UP0011" x="435" y="1835" width="435" height="447" frameX="0" frameY="-13" frameWidth="435" frameHeight="460"/>
+	<SubTexture name="Sonk SINGS UP0012" x="870" y="1835" width="422" height="447" frameX="-13" frameY="-12" frameWidth="435" frameHeight="460"/>
+	<SubTexture name="Sonk SINGS UP0013" x="1292" y="1835" width="422" height="447" frameX="-13" frameY="-12" frameWidth="435" frameHeight="460"/>
+	<SubTexture name="Sonk SINGS UP0014" x="2921" y="1362" width="422" height="447" frameX="-13" frameY="-13" frameWidth="435" frameHeight="460"/>
+</TextureAtlas>
