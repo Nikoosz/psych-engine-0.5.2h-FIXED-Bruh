@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				114,
+				22
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "NEON Sonk SINGS LEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				-58
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "NEON Sonk SINGS DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				80
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "NEON Sonk SINGS UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-23
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "NEON Sonk SING RIGHT"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "NEON Sonk IDLE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NEON_SONK",
+	"position": [
+		240,
+		0
+	],
+	"healthicon": "sonk",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		62,
+		255
+	],
+	"camera_position": [
+		-290,
+		-250
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}
